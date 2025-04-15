@@ -25,9 +25,10 @@ const Footer = () => {
         <div className='footer-bottom'>
             <p className='footer-bootom-left'>© 2025 Anshuman Mehta. All rights reserved.</p>
             <div className="footer-bottom-right">
-                <p>Term of Services</p>
-                <p>Privacy Policy</p>
-                <p>Connect with me</p>
+                <p><a href='https://github.com/Anshuman-utd'>Github</a></p>
+                <p><a href='https://www.linkedin.com/in/anshuman-mehta-291a3b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>LinkedIn</a></p>
+                <p><a href='https://codeforces.com/profile/Anshu-MAN'>CodeFores</a></p>
+                <p><a href='https://leetcode.com/u/Anshu-MAN/'>LeetCode</a></p>
             </div>
         </div>
     </div>

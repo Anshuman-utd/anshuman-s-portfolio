@@ -58,6 +58,11 @@
     margin-bottom: 50px;
 }
 
+.footer-bottom-right p a {
+    color: white;
+    text-decoration: none;
+}
+
 .footer-email-input:hover {
     border: 2px solid white;
 }
