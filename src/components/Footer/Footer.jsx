@@ -1,6 +1,7 @@
 import React from 'react'
 import './Footer.css'
 import footer_logo from '../../assets/footer_logo.svg'
+import theme_pattern from '../../assets/theme_pattern.svg'
 import user_icon from '../../assets/user_icon.svg'
 
 const Footer = () => {
@@ -8,7 +9,7 @@ const Footer = () => {
     <div className='footer'>
         <div className="footer-top">
             <div className="footer-top-left">
-                <img src= {footer_logo} alt=''/>
+                <h1>Anshuman</h1>
                 <p>I'm a frontend developer from India,currently pursuing B.Tech from Newton School of Technology</p>
             </div>
             <div className="footer-top-right">
