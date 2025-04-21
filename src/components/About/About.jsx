@@ -17,7 +17,6 @@ const About = () => {
             <div className="about-right">
                 <div className="about-para">
                     <p>Hi, I'm Anshuman Mehta, a passionate Frontend Developer and a first-year student at Newton School of Technology. I love building clean, responsive, and user-friendly web interfaces using modern technologies like HTML, CSS, JavaScript, React, and Tailwind CSS. I'm constantly learning and pushing my skills to create impactful digital experiences.</p>
-                    <p>My passion for frontend development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style = {{width: "70%"}}/></div>
